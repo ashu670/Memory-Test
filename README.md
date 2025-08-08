@@ -49,11 +49,11 @@ Made with 💙 by Abhay Lal
 Feel free to fork, play, and improve it!
 
 **Sources :-**
--Sound Effect by DRAGON-STUDIO from Pixabay
--Sound Effect by Universfield from Pixabay
--Sound Effect by Nils Vega from Pixabay
--Sound Effect by freesound_community from Pixabay
--Sound Effect by karim nessim from Pixabay
+- Sound Effect by DRAGON-STUDIO from Pixabay
+- Sound Effect by Universfield from Pixabay
+- Sound Effect by Nils Vega from Pixabay
+- Sound Effect by freesound_community from Pixabay
+- Sound Effect by karim nessim from Pixabay
 
 ---
 
