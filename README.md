@@ -4,19 +4,19 @@
 
 ---
 
-## 🕹️ Features
+## Features
 
-- ✅ Smooth and responsive UI using Unity Canvas
-- 🔊 Sound effects and background music
-- 💾 High score saving with PlayerPrefs
-- 🎨 Simple color-based memory gameplay
-- ⚙️ Settings menu for music control
-- 🚪 Exit/Quit functionality (PC build)
-- 🔁 Auto-repeating background music with volume transitions
+- Smooth and responsive UI using Unity Canvas
+- Sound effects and background music
+- High score saving with PlayerPrefs
+- Simple color-based memory gameplay
+- Settings menu for music control
+- Exit/Quit functionality (PC build)
+- Auto-repeating background music with volume transitions
 
 ---
 
-## 📦 Built With
+## Built With
 
 - Unity 2021+ (2D URP)
 - C#
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. Clone the repo  
    `git clone https://github.com/ashu670/Memory-Test.git`
@@ -37,13 +37,13 @@
 
 ---
 
-## 📌 About
+## About
 
 This game was created as a complete Unity project to showcase game logic, UI/UX polish, sound integration, and Git versioning best practices.
 
 ---
 
-## 📤 Credits
+## Credits
 
 Made with 💙 by Abhay Lal  
 Feel free to fork, play, and improve it!
